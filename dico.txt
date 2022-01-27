@@ -1,0 +1,14 @@
+test
+reference
+user
+std
+admin
+rust
+intro
+search
+community
+book
+learn
+accueil
+stable
+index
